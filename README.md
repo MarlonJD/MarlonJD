@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and contributing to open-source projects. Here's a little bit about me:
 
 ## 🚀 About Me
-- **Name:** MarlonJD
+- **Name:** Burak Karahan
 - **Location:** Turkey 🌍
 - **Interests:** Software Development, Open Source, Machine Learning, Mobile and Web Development
 - **Languages:** Dart, Python, Go, C, JavaScript, TypeScript
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonJD&layout=compact&theme=radical)
 
 ## 📫 How to reach me
-- **Email:** [burak.karaha@mail.ru](mailto:burak.karahan@mail.ru)
+- **Email:** [burak.karahan@mail.ru](mailto:burak.karahan@mail.ru)
 - **LinkedIn:** [MarlonJD](https://www.linkedin.com/in/marlonjd/)
 
 ## 🌟 Projects & Contributions
