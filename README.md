@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - **Location:** Turkey 🌍
 - **Interests:** Software Development, Open Source, Machine Learning, Mobile and Web Development
 - **Languages:** Dart, Python, Go, C, JavaScript, TypeScript
-- **Hobbies:** Coding, Trekking, Traveling, Gaming
+- **Hobbies:** Opera-ballet, Music Concerts, Electric Guitar, Camping
 
 ## 🔧 Technologies & Tools
 - **Frontend:** Flutter, HTML, CSS, JavaScript, Vue.js, React
