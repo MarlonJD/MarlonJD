@@ -6,14 +6,14 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - **Name:** Burak Karahan
 - **Location:** Turkey 🌍
 - **Interests:** Software Development, Open Source, Machine Learning, Mobile and Web Development
-- **Languages:** Dart, Python, Go, C, JavaScript, TypeScript
+- **Languages:** Python, Java, Go, Dart, C, JavaScript, TypeScript
 - **Hobbies:** Opera-ballet, Music Concerts, Electric Guitar, Camping
 
 ## 🔧 Technologies & Tools
-- **Frontend:** Flutter, HTML, CSS, JavaScript, Vue.js, React
-- **Backend:** Serverless(AppSync/Amplify), Django, Flask, Node.js, Express
-- **Database:** MySQL/MariaDB, PostgreSQL, MongoDB, DynamoDB
-- **DevOps:** Docker, Kubernetes, GitHub Actions
+- **Frontend:** React, VueJS, Angular, Flutter, HTML, CSS, JavaScript, Typescript
+- **Backend:** Serverless(AppSync/Amplify), Java Spring, Django, Flask, Node.js, Express
+- **Database:** MySQL/MariaDB, PostgreSQL, MongoDB, DynamoDB, Oracle, MsSQL
+- **DevOps:** Docker, Kubernetes,Openshift GitHub Actions
 - **Others:** Git, GitHub, VS Code, Linux/GNU
 
 ## 📈 GitHub Stats
