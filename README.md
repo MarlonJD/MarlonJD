@@ -22,8 +22,10 @@ Welcome to my GitHub profile! I'm Burak Karahan, a software developer in Turkey 
 
 ## 📈 GitHub Stats
 
-[![MarlonJD's GitHub Stats](https://ghstats.dev/api/card?username=MarlonJD&theme=radical&show_icons=true)](https://github.com/MarlonJD)
-[![Top Languages](https://ghstats.dev/api/langs?username=MarlonJD&theme=radical&layout=bar)](https://github.com/MarlonJD)
+<p align="center">
+  <img height="165" alt="MarlonJD's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarlonJD&theme=radical" />
+  <img height="165" alt="Top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarlonJD&theme=radical" />
+</p>
 
 ## 📫 How to reach me
 
