@@ -1,58 +1,53 @@
-# Hi there, I'm MarlonJD! 👋
+# Burak Karahan · MarlonJD
 
-Welcome to my GitHub profile! I'm Burak Karahan, a software developer in Turkey focused on direct Flutter framework contributions, Go and GraphQL tooling, Apple platform integrations, backend systems, desktop/mobile runtimes, and open-source work.
+**Senior Software Engineer · Backend, Cloud & Applied AI**
 
-## 🚀 About Me
+I build backend services, AI-enabled products, and developer tools. My work spans Go and Python APIs, AWS infrastructure, TypeScript/React applications, and native mobile and desktop software.
 
-- **Location:** Turkey 🌍
-- **Focus:** Direct `flutter/flutter` contributions, Go backend services, GraphQL contract tooling, desktop tooling, Apple platform integrations, and secure update flows
-- **Interests:** Software development, open source, machine learning, mobile and web development, framework internals, and developer tooling
-- **Languages:** Dart, Swift, Go, Kotlin, C#, Python, Java, JavaScript/TypeScript, C/C++
-- **Hobbies:** Opera-ballet, music concerts, electric guitar, camping
+I care about the whole path from an idea to a working product: API contracts, data flows, tests, observability, and reliable releases.
 
-## 🔧 Technologies & Tools
+Based in **Türkiye (UTC+3)** · [LinkedIn](https://www.linkedin.com/in/marlonjd/) · [Email](mailto:burak.karahan@mail.ru)
 
-- **Frontend & Mobile:** Flutter, SwiftUI/UIKit, Android/Kotlin, React, Vue.js, Angular, HTML, CSS, JavaScript/TypeScript
-- **Backend:** Go, GraphQL, Java Spring, Django, Flask, Node.js, Express, AWS AppSync/Amplify
-- **GraphQL:** Schema and operation validation, persisted operations, APQ, contract testing, subscriptions, AppSync realtime, code generation
-- **Databases:** MySQL/MariaDB, PostgreSQL, MongoDB, DynamoDB, Oracle, MsSQL
-- **DevOps & Cloud:** Docker, Kubernetes, OpenShift, GitHub Actions, AWS, Linux/GNU
-- **Native/Desktop:** macOS, iOS, Windows, Linux, WinUI/XAML runtime experiments, desktop updater tooling
-- **Tools:** Git, GitHub, VS Code, CI release gates, deterministic manifests, fixture-based tests
+## What I work on
 
-## 📈 GitHub Stats
+- **Backend & cloud:** Go, Python, Node.js/TypeScript, REST and GraphQL APIs, AWS, PostgreSQL, DynamoDB, and event-driven services.
+- **Applied AI & developer tools:** LLM integrations, MCP servers, tool contracts, evaluation, and reproducible debugging workflows for AI agents.
+- **Product & data:** React/Next.js interfaces, payment and subscription integrations, Python/SQL data pipelines, Snowflake, and Airflow.
+- **Mobile & desktop:** Flutter/Dart, Swift/SwiftUI/UIKit, and Kotlin, with a focus on native integrations, client runtimes, and update delivery.
+
+## Selected projects
+
+| Project | Focus | What it does |
+| --- | --- | --- |
+| [Web Debug MCP](https://github.com/MarlonJD/web-debug-mcp) | AI developer tools · Web | Gives MCP clients a local workflow to reproduce browser issues, inspect runtime state, collect redacted evidence, and verify fixes. |
+| [Apple Debug MCP](https://github.com/MarlonJD/apple-debug-mcp) | AI developer tools · Swift | Exposes Apple debugging and profiling tools through typed MCP interfaces for macOS and iOS investigations, with explicit capabilities and authorization boundaries. |
+| [GraphGate](https://github.com/MarlonJD/graphgate) | Go · GraphQL · CI/CD | Checks schemas, operations, persisted-operation manifests, and breaking contract changes before release, with a CLI and local browser UI. |
+| [SwiftGraphQLClient](https://github.com/MarlonJD/SwiftGraphQLClient) | Swift · GraphQL · AWS AppSync | Combines typed operation generation, normalized caching, SQLite persistence, uploads, subscriptions, and AppSync realtime support in a SwiftPM toolkit. |
+| [Flutter Desktop Updater](https://github.com/MarlonJD/flutter_desktop_updater) | Flutter · Release tooling | Delivers desktop updates for macOS, Windows, and Linux using signed release metadata, artifact verification, and installation recovery tracking. |
+| [App Store Server Library for Go](https://github.com/MarlonJD/app-store-server-library-go) | Go · Apple APIs | Provides App Store Server API and notification helpers, including signed transaction verification and authenticated API requests. |
+
+More projects: [parasut-python](https://github.com/MarlonJD/parasut-python), an unofficial accounting API wrapper; [WinUI 3 Mac Test Runtime](https://github.com/MarlonJD/winui3-mac-test-runtime), a runtime experiment for rendering and testing C#/XAML on macOS; and [LiveKit WebRTC Native Swift](https://github.com/MarlonJD/livekit-webrtc-native-swift), an unofficial Apple-native client.
+
+## Open-source contributions
+
+- **Flutter framework:** Direct contributions across Material/Cupertino separation, widget and rendering tests, semantics, and behavior fixes. [Browse my pull requests](https://github.com/flutter/flutter/pulls?q=is%3Apr+author%3AMarlonJD).
+- **Dart & Flutter ecosystem:** Contributions across packages including `retrofit.dart`, `mobx.dart`, `flutter_zxing`, and `dart-cryptography`, alongside my own libraries and tooling.
+- **AWS Amplify:** Feature proposals, issue reports, and reproduction projects around Flutter, AppSync, DynamoDB, and backend integrations. [Browse my issues](https://github.com/aws-amplify/amplify-flutter/issues?q=author%3AMarlonJD).
+
+## How I work
+
+I use Codex and Claude Code with explicit project instructions, scoped changes, tests, and code review. For debugging, I aim to reproduce the failure, capture useful evidence, and verify the same user flow after a fix. My MCP projects make that workflow available as callable tools.
+
+I'm interested in remote backend, product, and applied AI engineering roles, as well as open-source collaboration.
+
+Outside software: opera and ballet, live music, electric guitar, and camping.
+
+<details>
+<summary>GitHub activity</summary>
 
 <p align="center">
   <img height="165" alt="MarlonJD's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarlonJD&theme=radical" />
   <img height="165" alt="Top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarlonJD&theme=radical" />
 </p>
 
-## 📫 How to reach me
-
-- **Email:** [burak.karahan@mail.ru](mailto:burak.karahan@mail.ru)
-- **LinkedIn:** [MarlonJD](https://www.linkedin.com/in/marlonjd/)
-
-## 🌟 Open Source
-
-- **Flutter framework:** My primary open-source focus includes direct work in [flutter/flutter](https://github.com/flutter/flutter), with 30+ authored PRs across the Material/Cupertino package split, widget/rendering test ownership, semantics testing, and Material behavior fixes. [Flutter PRs](https://github.com/flutter/flutter/pulls?q=is%3Apr+author%3AMarlonJD)
-- **Go & GraphQL tooling:** I build CLI-first GraphQL infrastructure around schema and operation validation, deterministic persisted-operation manifests, schema diff checks, fixture-based contract tests, stable CI exits, smoke suites, and local developer UIs.
-- **Swift & Apple platforms:** SwiftPM libraries and Apple-native experiments around GraphQL runtimes, LiveKit/WebRTC, App Store Server APIs, secure envelopes, and post-quantum crypto primitives.
-- **Flutter/Dart ecosystem:** Beyond the framework, I work across `retrofit.dart`, `mobx.dart`, `flutter_zxing`, `packages.dart`, and `dart-cryptography`, plus owned Flutter packages and tools.
-- **AWS Amplify:** Feature proposals, issue reports, and repro projects around Amplify Flutter/Gen 2, AppSync, DynamoDB secondary indexes, OpenSearch Serverless, and backend runtimes. [Amplify Flutter issues](https://github.com/aws-amplify/amplify-flutter/issues?q=author%3AMarlonJD)
-- **Native runtime & updater tooling:** WinUI 3 rendering/testing on macOS, desktop updater flows, staged installs, release manifests, and cross-platform release channels.
-
-## 🚢 Highlighted Projects
-
-- **GraphGate:** A CLI-first GraphQL contract gate for schema and operation validation, deterministic persisted-operation manifests, schema diff checks, fixture-based contract tests, stable CI exit codes, reports, and a local browser UI. [GitHub Repository](https://github.com/MarlonJD/graphgate)
-- **SwiftGraphQLClient:** A SwiftPM GraphQL runtime and codegen stack with typed operations, normalized cache and SQLite persistence, uploads, subscriptions, AppSync realtime, incremental delivery, APQ/persisted operation manifests, and a SwiftPM codegen plugin. [GitHub Repository](https://github.com/MarlonJD/SwiftGraphQLClient)
-- **LiveKit WebRTC Native Swift:** An unofficial Swift-native LiveKit/WebRTC client for iOS and macOS, focused on Apple-native media primitives, RTP/SRTP, ICE/STUN, VideoToolbox, AudioToolbox, CI release gates, and explicit production-readiness tracking. [GitHub Repository](https://github.com/MarlonJD/livekit-webrtc-native-swift)
-- **WinUI 3 Mac Test Runtime:** Run and screenshot WinUI 3 C#/XAML source on macOS without Wine or a Windows VM, using headless UI testing, Skia rendering, and visual regression artifacts. [GitHub Repository](https://github.com/MarlonJD/winui3-mac-test-runtime)
-- **Flutter Desktop Updater:** A Flutter desktop updater plugin for Windows, macOS, and Linux with staged installs, release manifests, and GitHub, GitLab, local filesystem, and S3 support. [GitHub Repository](https://github.com/MarlonJD/flutter_desktop_updater)
-- **Security & Apple APIs:** [App Store Server Library Go](https://github.com/MarlonJD/app-store-server-library-go), [pqauth-kit](https://github.com/MarlonJD/pqauth-kit), [mlkem-kit](https://github.com/MarlonJD/mlkem-kit), [SecureEnvelopeKit](https://github.com/MarlonJD/SecureEnvelopeKit), [MLKEM Native Swift](https://github.com/MarlonJD/MLKEMNativeSwift), [MLKEM Native Android](https://github.com/MarlonJD/MLKEMNativeAndroid)
-- **Flutter UI & Tooling:** [BabylonJS Viewer](https://github.com/MarlonJD/babylonjs_viewer), [Stories Editor](https://github.com/MarlonJD/stories_editor), [Flutter Provider Starter Template](https://github.com/MarlonJD/flutter-provider-starter-template)
-- **Native Updater Helpers:** [macOS Updater Swift](https://github.com/MarlonJD/macos-updater-swift), [Windows Updater .NET](https://github.com/MarlonJD/windows-updater-dotnet)
-- **Python/Django & Vue:** [parasut-python](https://github.com/MarlonJD/parasut-python), [django-bootstrap-pagination](https://github.com/MarlonJD/django-bootstrap-pagination), [django-googledrive-storage](https://github.com/MarlonJD/django-googledrive-storage), [vue3-heatmap](https://github.com/MarlonJD/vue3-heatmap), [vue-simple-search-dropdown](https://github.com/MarlonJD/vue-simple-search-dropdown)
-
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
-
-Thanks for visiting! 😊
+</details>
